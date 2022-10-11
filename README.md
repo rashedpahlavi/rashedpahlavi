@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rashedpahlavi
+- 👀 I’m interested in ...learning new stuff
+- 🌱 I’m currently learning ...python, java & javascript
+- 📫 to reach me ...rashedpahlavi@gmail.com
